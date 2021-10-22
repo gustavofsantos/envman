@@ -42,7 +42,7 @@
   ],
   "homepage": "https://github.com/gustavofsantos/envman#readme",
   "keywords": [],
-  "license": "ISC",
+  "license": "UNLICENSED",
   "main": "index.js",
   "oclif": {
     "commands": "./lib/commands",
